@@ -24,6 +24,6 @@
   
 ## 🎓 My Statistics
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira&layout=compact&theme=dark)<br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliveira&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira155&layout=compact&theme=dark)<br><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliveira155&show_icons=true&theme=dark)
 </div>
